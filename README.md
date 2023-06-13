@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pranjal Thakur</h1>
 <h3 align="center">I am an Undergraduate in CSE</h3>
-<img align= "left" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalthakurr&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalthakurr" /> </p>
 
