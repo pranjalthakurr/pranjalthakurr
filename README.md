@@ -2,6 +2,7 @@
 <h3 align="center">Flutter Developer|UI/UX|Digital Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalthakurr&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalthakurr" /> </p>
+<img align="center" alt="coding" width="400" src= "![image](https://github.com/pranjalthakurr/pranjalthakurr/assets/91968368/a426d372-cfbb-41d3-897d-97d2d098e028)">
 
 - 🌱 I’m currently learning **Flutter**
 
