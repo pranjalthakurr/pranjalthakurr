@@ -7,7 +7,7 @@
 
 - 📫 How to reach me? **pranjallt16@gmail.com**
 
-- ⚡ Fun fact **despite coding, I love spending time with my cat, who has an uncanny ability to walk across my keyboard at the most critical moments. He's my 'co-developer,' always adding a bit of unpredictability to my projects!**
+- ⚡ Fun fact **Despite coding, I love spending time with my cat, who has an uncanny ability to walk across my keyboard at the most critical moments. He's my 'co-developer,' always adding a bit of unpredictability to my projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
