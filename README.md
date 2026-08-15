@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Pranjal Thakur👋 </h1>
-<h3 align="center">Flutter Developer|UI/UX|Digital Artist</h3>
+<h3 align="center">Python Full Stack Developer|Flutter Developer|UI/UX|Digital Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalthakurr&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalthakurr" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me? **pranjallt16@gmail.com**
 
